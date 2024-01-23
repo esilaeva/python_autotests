@@ -22,7 +22,7 @@
     <img width="15%" title="Requests" src="media/requests.png" alt="Requests">
 </p>  
 
-**[Python]()** - язык программирования для написания тестов.  
+**[Python](https://www.python.org/)** - язык программирования для написания тестов.  
 
 **[PyTest](https://docs.pytest.org/en/7.4.x/)** - фреймворк для организации и выполнения тестов.  
 
