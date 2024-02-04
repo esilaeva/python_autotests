@@ -1,6 +1,6 @@
 # Пример автотестов на **Python**
 
-[PyTest](https://docs.pytest.org/en/7.4.x/) + [Requests]()
+[PyTest](https://docs.pytest.org/en/7.4.x/) + [Requests](https://requests.readthedocs.io/)
 
 ## [Содержание](#Содержание)
 
@@ -20,9 +20,15 @@
 ### Технологический стек
 
 <p>
-    <img width="20%" title="Python" src="media/python.png" alt="Python">
-    <img width="30%" title="PyTest" src="media/pyTests.png" alt="PyTest">
-    <img width="15%" title="Requests" src="media/requests.png" alt="Requests">
+    <a href="https://docs.pytest.org/en/7.4.x/">
+        <img width="20%" title="Python" src="media/python.png" alt="Python">
+    </a>
+    <a href="https://docs.pytest.org/en/7.4.x/">
+        <img width="30%" title="PyTest" src="media/pyTests.png" alt="PyTest">
+    </a>
+    <a href="https://requests.readthedocs.io/">
+        <img width="15%" title="Requests" src="media/requests.png" alt="Requests">
+    </a>
 </p>  
 
 **[Python](https://www.python.org/downloads/)** - язык программирования для написания тестов.
