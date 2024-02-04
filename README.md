@@ -20,7 +20,7 @@
 ### Технологический стек
 
 <p>
-    <a href="https://docs.pytest.org/en/7.4.x/">
+    <a href="https://www.python.org/">
         <img width="20%" title="Python" src="media/python.png" alt="Python">
     </a>
     <a href="https://docs.pytest.org/en/7.4.x/">
